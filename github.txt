@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://github.com/p0ntanH/example-repo
-=======
-
->>>>>>> 860e79d02aaefa58bac650fcb3389a9ee2677c95
